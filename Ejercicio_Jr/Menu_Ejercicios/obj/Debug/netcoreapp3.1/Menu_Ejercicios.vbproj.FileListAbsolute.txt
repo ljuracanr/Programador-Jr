@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\bin\Debug\netcoreapp3.1\Menu_Ejercicios.exe
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\bin\Debug\netcoreapp3.1\Menu_Ejercicios.deps.json
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\bin\Debug\netcoreapp3.1\Menu_Ejercicios.runtimeconfig.json
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\bin\Debug\netcoreapp3.1\Menu_Ejercicios.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\bin\Debug\netcoreapp3.1\Menu_Ejercicios.dll
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\bin\Debug\netcoreapp3.1\Menu_Ejercicios.pdb
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\obj\Debug\netcoreapp3.1\Menu_Ejercicios.vbprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\obj\Debug\netcoreapp3.1\Menu_Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\obj\Debug\netcoreapp3.1\Menu_Ejercicios.AssemblyInfo.vb
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\obj\Debug\netcoreapp3.1\Menu_Ejercicios.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\obj\Debug\netcoreapp3.1\Menu_Ejercicios.dll
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\obj\Debug\netcoreapp3.1\Menu_Ejercicios.pdb
+C:\Users\Alex\source\repos\Ejercicio_Jr\Menu_Ejercicios\obj\Debug\netcoreapp3.1\Menu_Ejercicios.genruntimeconfig.cache
